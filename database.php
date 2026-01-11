@@ -3,9 +3,9 @@
 // Database configuration
 // define('DB_HOST', '62.72.14.157');
 define('DB_HOST', 'localhost');
-define('DB_USER', 'u623622947_auction');
-define('DB_PASS', 'j/9U6DSKT+5');
-define('DB_NAME', 'u623622947_auction');
+define('DB_USER', 'auction_user');
+define('DB_PASS', 'JbkJl-z1O5|U');
+define('DB_NAME', 'auction_portal');
 
 // Create database connection
 function getDBConnection() {
